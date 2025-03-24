@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9S2uzLBjqwcpkxscZG9tgtxTyj8XAKHyocCqfM/J2JUT6+VxrDXMHAERm9p0Ar9z5xUBx2XfKjBBFPxbT5lYOA==",
+  "dgSpecHash": "/MRytpBX1SAH9qj0NFJbKnKg1xQjJSuZxjnZ7xhYm4lrqCmU/xLptCChPX9zoe7GFma4+q9d04/j3P0q9+0ZOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\july204\\Crud.net\\TaskManager\\TaskManager.csproj",
+  "projectFilePath": "C:\\Users\\july204\\CRUDnet\\TaskManager\\TaskManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\july204\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\july204\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

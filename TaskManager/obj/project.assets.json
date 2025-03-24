@@ -2731,11 +2731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\july204\\Crud.net\\TaskManager\\TaskManager.csproj",
+      "projectUniqueName": "C:\\Users\\july204\\CRUDnet\\TaskManager\\TaskManager.csproj",
       "projectName": "TaskManager",
-      "projectPath": "C:\\Users\\july204\\Crud.net\\TaskManager\\TaskManager.csproj",
+      "projectPath": "C:\\Users\\july204\\CRUDnet\\TaskManager\\TaskManager.csproj",
       "packagesPath": "C:\\Users\\july204\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\july204\\Crud.net\\TaskManager\\obj\\",
+      "outputPath": "C:\\Users\\july204\\CRUDnet\\TaskManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\july204\\AppData\\Roaming\\NuGet\\NuGet.Config"
