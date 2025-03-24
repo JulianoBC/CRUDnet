@@ -13,7 +13,7 @@ Para configurar o projeto TaskManager localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/JulianoBC/Crud.net
+    git clone https://github.com/JulianoBC/CRUDnet
     cd TaskManager
     ```
 
